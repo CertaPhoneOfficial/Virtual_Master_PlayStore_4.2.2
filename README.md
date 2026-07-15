@@ -6,8 +6,11 @@ This how i'm the first person to make this installer.
 2) Install the app (only supports android jelly bean 4.2.2)
 3) Open the app, you will see this:
 <img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/96797fd9-0989-4a91-820f-98bef0e669c5" />
+
 4) Press button 1, then 2, and finally 3.
+
 5) Log in (by opening the play store)
+
 6) Finished!
 # ADVISE
 If you install the apps in random order, it wont work
